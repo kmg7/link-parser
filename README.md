@@ -6,7 +6,7 @@ go run ./examples/main/main.go
 ```
 
 ## Run tests with associated example html files
-Located in [this repo](https://github.com/kmlgkcy/link-parser/examples)
+Located in [this repo](https://github.com/kmg7/link-parser/examples)
 ```shell
 go test .
 ```

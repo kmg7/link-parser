@@ -1,4 +1,4 @@
-module github.com/kmlgkcy/link-parser
+module github.com/kmg7/link-parser
 
 go 1.21.1
 

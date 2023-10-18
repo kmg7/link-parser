@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	lp "github.com/kmlgkcy/link-parser"
+	lp "github.com/kmg7/link-parser"
 )
 
 func main() {
